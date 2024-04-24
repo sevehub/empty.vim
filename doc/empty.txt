@@ -1,0 +1,5 @@
+*empty.txt* Empty plugin - Test vimdoc generation
+*empty*
+
+
+
